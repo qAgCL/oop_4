@@ -1,0 +1,8 @@
+D:\oop\WindowsFormsApp1\Plugin1\bin\Debug\Plugin1.dll
+D:\oop\WindowsFormsApp1\Plugin1\bin\Debug\Plugin1.pdb
+D:\oop\WindowsFormsApp1\Plugin1\bin\Debug\PlugIn.dll
+D:\oop\WindowsFormsApp1\Plugin1\bin\Debug\PlugIn.pdb
+D:\oop\WindowsFormsApp1\Plugin1\obj\Debug\Plugin1.csprojAssemblyReference.cache
+D:\oop\WindowsFormsApp1\Plugin1\obj\Debug\Plugin1.csproj.CopyComplete
+D:\oop\WindowsFormsApp1\Plugin1\obj\Debug\Plugin1.dll
+D:\oop\WindowsFormsApp1\Plugin1\obj\Debug\Plugin1.pdb
